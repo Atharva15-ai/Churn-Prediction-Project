@@ -53,4 +53,4 @@ Telco Customer Churn Dataset (Kaggle)
 
 ## 👨‍💻 Author
 
-Rohan Shantaram Nagpure
+Atharva Girish Deshmukh
